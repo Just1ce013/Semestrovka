@@ -1,0 +1,20 @@
+name:Планета Земля
+questionsCount:3
+requiredPoints:15
+question
+type:single
+text:Каков возраст Земли?
+option:2020 лет:0
+option:4543000000 лет:2
+option:2918918635 лет:0
+question
+type:multiple
+text:Что из перечисленного является континентом?
+option:Антарктида:3
+option:Австралия:3
+option:Россия:0
+question
+type:text
+text:Какой океан является самым большим в мире?
+option:Тихий океан:7
+end
